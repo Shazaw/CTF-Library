@@ -12,7 +12,7 @@ This section contains the source code, setup instructions, and solutions for CTF
 
 | Event / Project Name | Description | Link to Challenges |
 | :--- | :--- | :--- |
-| **OmahTI Academy - Final Project** | A full set of challenges covering Web Exploitation, Cryptography, Forensics, OSINT, and more, created for the Fundamental Cyber Security class. | [View Project](./Shazaw's%20CTFs/) |
+| **OmahTI Academy - Final Project** | A full set of challenges covering Web Exploitation, Cryptography, Forensics, OSINT, and more, created for the Fundamental Cyber Security class. | [View Project](./Shazaw's%20CTFs/OmahTI%20Academy%20Final%20Project) |
 
 ---
 

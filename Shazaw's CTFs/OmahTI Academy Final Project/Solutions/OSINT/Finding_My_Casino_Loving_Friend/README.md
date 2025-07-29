@@ -16,7 +16,8 @@ The objective is to identify the name of the casino building shown in the provid
 
 2.  Next, perform a Google search for casinos located near The Wheel of Brisbane. The search results clearly show a casino named **The Star Brisbane** very close to the landmark.
 
-    ![Google search results showing The Star Brisbane casino near The Wheel of Brisbane](images/solution_casino_2.png)
+    <img width="645" height="297" alt="image" src="https://github.com/user-attachments/assets/1fe195c7-0efa-4e6f-9a5a-e52b0816e7b9" />
+
 
 ### Flag
 OmahTIAcademy{The_Star}

@@ -8,15 +8,13 @@ This repository contains a collection of Capture The Flag (CTF) challenges devel
 This project was designed, created, and authored by **shazaw**.
 
 ## Challenges
-
 Below is a list of the category of challenges included in this CTF.
 
-### Forensics
-### Web Exploitation
-### Cryptography
-### OSINT (Open-Source Intelligence)
-### Miscellaneous
+-Forensics
+-Web Exploitation
+-Cryptography
+-OSINT (Open-Source Intelligence)
+-Miscellaneous
 
 ## About the Author
-
 This CTF was developed by **shazaw** as a demonstration of skills learned in the Fundamental Cyber Security curriculum at OmahTI Academy. The goal was to create a diverse and engaging set of challenges that test a player's practical and theoretical knowledge.

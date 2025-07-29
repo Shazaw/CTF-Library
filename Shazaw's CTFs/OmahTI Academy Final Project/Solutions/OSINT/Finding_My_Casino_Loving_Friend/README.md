@@ -11,7 +11,7 @@ The objective is to identify the name of the casino building shown in the provid
 
 1.  The first step is to perform a reverse image search on the photograph. Using a tool like Google Lens, the prominent ferris wheel is quickly identified as **The Wheel of Brisbane** in Queensland, Australia.
 
-    ![Google Lens identifying The Wheel of Brisbane](images/solution_casino_1.png)
+    ![Alt text](images/solution_casino_1.png))
 
 2.  Next, perform a Google search for casinos located near The Wheel of Brisbane. The search results clearly show a casino named **The Star Brisbane** very close to the landmark.
 

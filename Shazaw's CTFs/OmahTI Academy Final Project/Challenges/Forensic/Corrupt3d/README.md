@@ -1,4 +1,4 @@
-# Solution: Corrupt3d
+# Corrupt3d
 
 **Category:** Forensics
 **Points:** 500

@@ -5,9 +5,13 @@
 Below is a list of the category of challenges included in this CTF.
 
 -Forensics
+
 -Web Exploitation
+
 -Cryptography
+
 -OSINT (Open-Source Intelligence)
+
 -Miscellaneous
 
 ## About the Author

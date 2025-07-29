@@ -24,7 +24,7 @@ Here you can find my solutions and thought processes for challenges from various
 
 | CTF Event | Challenge Name | Category | Link to Write-up |
 | :--- | :--- | :--- | :--- |
-| *Example CTF 2025* | *-* | *-* | *Coming Soon* |
+| *- | *-* | *-* | *Coming Soon* |
 
 
 ---
